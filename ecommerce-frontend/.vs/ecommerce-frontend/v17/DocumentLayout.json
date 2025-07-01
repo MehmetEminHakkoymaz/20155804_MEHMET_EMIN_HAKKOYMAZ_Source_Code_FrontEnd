@@ -1,0 +1,355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\XMLFinalClient\\ecommerce-frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\XMLFinalClient\\ecommerce-frontend\\src\\api\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\api\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\XMLFinalClient\\ecommerce-frontend\\src\\components\\Products\\ProductCard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Products\\ProductCard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\XMLFinalClient\\ecommerce-frontend\\src\\components\\Products\\ProductForm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Products\\ProductForm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\XMLFinalClient\\ecommerce-frontend\\src\\store\\productSlice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\store\\productSlice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\XMLFinalClient\\ecommerce-frontend\\src\\components\\Products\\ProductDetail.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Products\\ProductDetail.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\XMLFinalClient\\ecommerce-frontend\\src\\components\\Auth\\Login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Auth\\Login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\XMLFinalClient\\ecommerce-frontend\\src\\pages\\HomePage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\HomePage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\XMLFinalClient\\ecommerce-frontend\\src\\store\\authSlice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\store\\authSlice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\XMLFinalClient\\ecommerce-frontend\\src\\utils\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\utils\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\XMLFinalClient\\ecommerce-frontend\\src\\components\\Layout\\Header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Layout\\Header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\XMLFinalClient\\ecommerce-frontend\\src\\components\\Products\\ProductList.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Products\\ProductList.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\XMLFinalClient\\ecommerce-frontend\\src\\store\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\store\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\XMLFinalClient\\ecommerce-frontend\\src\\api\\products.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\api\\products.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\XMLFinalClient\\ecommerce-frontend\\src\\config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\XMLFinalClient\\ecommerce-frontend\\src\\api\\axios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\api\\axios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\XMLFinalClient\\ecommerce-frontend\\src\\pages\\AdminPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\AdminPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\XMLFinalClient\\ecommerce-frontend\\src\\pages\\ProductsPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\ProductsPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\XMLFinalClient\\ecommerce-frontend\\src\\pages\\RegisterPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\RegisterPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\XMLFinalClient\\ecommerce-frontend\\src\\pages\\ProductDetailPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\ProductDetailPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\XMLFinalClient\\ecommerce-frontend\\src\\pages\\NotFoundPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\NotFoundPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "productSlice.js",
+              "DocumentMoniker": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\store\\productSlice.js",
+              "RelativeDocumentMoniker": "src\\store\\productSlice.js",
+              "ToolTip": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\store\\productSlice.js",
+              "RelativeToolTip": "src\\store\\productSlice.js",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-28T18:49:13.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Header.js",
+              "DocumentMoniker": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\components\\Layout\\Header.js",
+              "RelativeDocumentMoniker": "src\\components\\Layout\\Header.js",
+              "ToolTip": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\components\\Layout\\Header.js",
+              "RelativeToolTip": "src\\components\\Layout\\Header.js",
+              "ViewState": "AgIAADoAAAAAAAAAAAAewEoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-28T18:04:36.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\store\\index.js",
+              "RelativeDocumentMoniker": "src\\store\\index.js",
+              "ToolTip": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\store\\index.js",
+              "RelativeToolTip": "src\\store\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-28T18:03:57.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductCard.js",
+              "DocumentMoniker": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\components\\Products\\ProductCard.js",
+              "RelativeDocumentMoniker": "src\\components\\Products\\ProductCard.js",
+              "ToolTip": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\components\\Products\\ProductCard.js",
+              "RelativeToolTip": "src\\components\\Products\\ProductCard.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-28T17:44:27.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "auth.js",
+              "DocumentMoniker": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\api\\auth.js",
+              "RelativeDocumentMoniker": "src\\api\\auth.js",
+              "ToolTip": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\api\\auth.js",
+              "RelativeToolTip": "src\\api\\auth.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-28T17:56:21.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "auth.js",
+              "DocumentMoniker": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\utils\\auth.js",
+              "RelativeDocumentMoniker": "src\\utils\\auth.js",
+              "ToolTip": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\utils\\auth.js",
+              "RelativeToolTip": "src\\utils\\auth.js",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-28T18:06:31.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "authSlice.js",
+              "DocumentMoniker": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\store\\authSlice.js",
+              "RelativeDocumentMoniker": "src\\store\\authSlice.js",
+              "ToolTip": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\store\\authSlice.js",
+              "RelativeToolTip": "src\\store\\authSlice.js",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-28T18:06:41.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDetail.js",
+              "DocumentMoniker": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\components\\Products\\ProductDetail.js",
+              "RelativeDocumentMoniker": "src\\components\\Products\\ProductDetail.js",
+              "ToolTip": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\components\\Products\\ProductDetail.js",
+              "RelativeToolTip": "src\\components\\Products\\ProductDetail.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-28T17:44:01.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductForm.js",
+              "DocumentMoniker": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\components\\Products\\ProductForm.js",
+              "RelativeDocumentMoniker": "src\\components\\Products\\ProductForm.js",
+              "ToolTip": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\components\\Products\\ProductForm.js",
+              "RelativeToolTip": "src\\components\\Products\\ProductForm.js",
+              "ViewState": "AgIAADAAAAAAAAAAAAAWwEgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-28T15:05:44.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.js",
+              "DocumentMoniker": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\components\\Auth\\Login.js",
+              "RelativeDocumentMoniker": "src\\components\\Auth\\Login.js",
+              "ToolTip": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\components\\Auth\\Login.js",
+              "RelativeToolTip": "src\\components\\Auth\\Login.js",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAWwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-28T18:07:00.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomePage.js",
+              "DocumentMoniker": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\pages\\HomePage.js",
+              "RelativeDocumentMoniker": "src\\pages\\HomePage.js",
+              "ToolTip": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\pages\\HomePage.js",
+              "RelativeToolTip": "src\\pages\\HomePage.js",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAswAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-28T17:45:27.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "axios.js",
+              "DocumentMoniker": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\api\\axios.js",
+              "RelativeDocumentMoniker": "src\\api\\axios.js",
+              "ToolTip": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\api\\axios.js",
+              "RelativeToolTip": "src\\api\\axios.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-28T17:56:20.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "products.js",
+              "DocumentMoniker": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\api\\products.js",
+              "RelativeDocumentMoniker": "src\\api\\products.js",
+              "ToolTip": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\api\\products.js",
+              "RelativeToolTip": "src\\api\\products.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-26T14:38:28.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductList.js",
+              "DocumentMoniker": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\components\\Products\\ProductList.js",
+              "RelativeDocumentMoniker": "src\\components\\Products\\ProductList.js",
+              "ToolTip": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\components\\Products\\ProductList.js",
+              "RelativeToolTip": "src\\components\\Products\\ProductList.js",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-28T17:45:05.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminPage.js",
+              "DocumentMoniker": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\pages\\AdminPage.js",
+              "RelativeDocumentMoniker": "src\\pages\\AdminPage.js",
+              "ToolTip": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\pages\\AdminPage.js",
+              "RelativeToolTip": "src\\pages\\AdminPage.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-28T17:45:13.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductsPage.js",
+              "DocumentMoniker": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\pages\\ProductsPage.js",
+              "RelativeDocumentMoniker": "src\\pages\\ProductsPage.js",
+              "ToolTip": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\pages\\ProductsPage.js",
+              "RelativeToolTip": "src\\pages\\ProductsPage.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-28T17:45:43.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "config.js",
+              "DocumentMoniker": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\config.js",
+              "RelativeDocumentMoniker": "src\\config.js",
+              "ToolTip": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\config.js",
+              "RelativeToolTip": "src\\config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-28T17:46:37.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterPage.js",
+              "DocumentMoniker": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\pages\\RegisterPage.js",
+              "RelativeDocumentMoniker": "src\\pages\\RegisterPage.js",
+              "ToolTip": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\pages\\RegisterPage.js",
+              "RelativeToolTip": "src\\pages\\RegisterPage.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-28T17:45:44.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NotFoundPage.js",
+              "DocumentMoniker": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\pages\\NotFoundPage.js",
+              "RelativeDocumentMoniker": "src\\pages\\NotFoundPage.js",
+              "ToolTip": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\pages\\NotFoundPage.js",
+              "RelativeToolTip": "src\\pages\\NotFoundPage.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-28T17:45:37.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductDetailPage.js",
+              "DocumentMoniker": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\pages\\ProductDetailPage.js",
+              "RelativeDocumentMoniker": "src\\pages\\ProductDetailPage.js",
+              "ToolTip": "C:\\XMLFinalClient\\ecommerce-frontend\\src\\pages\\ProductDetailPage.js",
+              "RelativeToolTip": "src\\pages\\ProductDetailPage.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-28T17:43:44.761Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
